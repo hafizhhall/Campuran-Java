@@ -7,7 +7,6 @@ public class App {
         boolean isLanjutkan =  true;
 
         while(isLanjutkan){
-        
         System.out.println("Database Perpustakaan\n");
         System.out.println("1.\t Lihat seluruh buku");
         System.out.println("2.\tCari data buku");
